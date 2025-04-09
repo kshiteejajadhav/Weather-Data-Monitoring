@@ -50,8 +50,9 @@ Setup & Configuration
   	•	Python 3.7 or above installed
   	•	requests installed via:    
 
-``bash
-	pip install -r requirements.txt``
+```bash
+	pip install -r requirements.txt
+```
 
 2. API Configuration
 	•	Get your OpenWeatherMap API Key
@@ -73,7 +74,9 @@ Update weatherdata.py with:
 
 Running the Script
 
-```python3 weatherdata.py```
+```bash 
+python3 weatherdata.py
+```
 
 This will:
 	•	Fetch data from OpenWeatherMap
@@ -106,11 +109,15 @@ Building this project provided hands-on experience in integrating live public da
 
 Requirements
 
-```requests```
+```bash 
+requests
+```
 
 Install using:
 
-```pip install requests```
+```bash 
+pip install requests
+```
 
 
 
