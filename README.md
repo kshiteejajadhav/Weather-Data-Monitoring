@@ -35,6 +35,8 @@ The solution simulates a typical smart weather station dashboard using only Pyth
 
 ```bash
       weather-data-monitoring/
+      ├──.gitignore
+      ├── LICENSE
       ├── weatherdata.py         # Python script to fetch and upload weather data
       ├── README.md              # Project documentation (this file)
       ├── requirements.txt       # Required Python dependencies
