@@ -1,13 +1,13 @@
 import requests
 import time
 # === OpenWeatherMap API Configuration ===
-API_KEY = "c6f84c808e5682431ec56bfc28724df5"
-LAT = "43.0481"   # Syracuse latitude
-LON = "-76.1474"  # Syracuse longitude
+API_KEY = "YOUR_API_KEY"
+LAT = "YOUR_latitude"
+LON = "YOUR_longitude"
 WEATHER_URL = f"https://api.openweathermap.org/data/2.5/weather?lat={LAT}&lon={LON}&appid={API_KEY}&units=metric"
 # === ThingSpeak Configuration ===
 THINGSPEAK_URL = "https://api.thingspeak.com/update"
-WRITE_API_KEY = "57NIMQ5KPMVNERYH"
+WRITE_API_KEY = "YOUR_WRITE_API_KEY"
 CHANNEL_FIELDS = {
     "field1": "temperature",
     "field2": "humidity",
