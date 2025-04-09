@@ -50,7 +50,8 @@ Setup & Configuration
   	•	Python 3.7 or above installed
   	•	requests installed via:    
 
-```pip install -r requirements.txt```
+``bash
+	pip install -r requirements.txt``
 
 2. API Configuration
 	•	Get your OpenWeatherMap API Key
