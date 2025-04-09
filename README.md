@@ -34,7 +34,7 @@ The solution simulates a typical smart weather station dashboard using only Pyth
 ## Project Structure
 
 ```bash
-      weather-data-iot/
+      weather-data-monitoring/
       ├── weatherdata.py         # Python script to fetch and upload weather data
       ├── README.md              # Project documentation (this file)
       ├── requirements.txt       # Required Python dependencies
