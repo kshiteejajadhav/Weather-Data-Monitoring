@@ -42,7 +42,7 @@ The solution simulates a typical smart weather station dashboard using only Pyth
       │   ├── fields.png
       │   └── advanced_views.png
 
-
+```
 
 Setup & Configuration
   
@@ -50,7 +50,7 @@ Setup & Configuration
   	•	Python 3.7 or above installed
   	•	requests installed via:    
 
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 2. API Configuration
 	•	Get your OpenWeatherMap API Key
@@ -72,7 +72,7 @@ Update weatherdata.py with:
 
 Running the Script
 
-python3 weatherdata.py
+```python3 weatherdata.py```
 
 This will:
 	•	Fetch data from OpenWeatherMap
@@ -105,17 +105,17 @@ Building this project provided hands-on experience in integrating live public da
 
 Requirements
 
-requests
+```requests```
 
 Install using:
 
-pip install requests
+```pip install requests```
 
 
 
 ⸻
 
-🔐 Notes
+Notes
 	•	Do not share your API keys publicly.
 	•	This project uses real data, no simulation was involved.
 
