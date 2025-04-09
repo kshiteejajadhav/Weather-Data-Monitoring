@@ -126,5 +126,6 @@ pip install requests
 Notes
 	•	Do not share your API keys publicly.
 	•	This project uses real data, no simulation was involved.
+	•	For acedemic purposes
 
 ⸻
